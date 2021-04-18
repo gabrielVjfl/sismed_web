@@ -1,0 +1,71 @@
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+* {
+  
+}
+#btnsoumedico {
+  height: 60px;
+  border-radius:  20px;
+  font-weight: 600;
+  font-size: 19px;
+ 
+ background-color: #23E060;
+ border: 2px solid black;
+ transition: all 0.7s
+}
+#btnsoupaciente {
+  height: 60px;
+  border-radius:  20px;
+  font-weight: 600;
+  font-size: 19px;
+ margin-left: 10px;
+ border: 2px solid black;
+ background-color: #FF9F0F;
+ transition: all 0.7s
+}
+#btnsourecepcionista {
+  height: 60px;
+  border-radius:  20px;
+  font-weight: 600;
+  font-size: 19px;
+ margin-left: 10px;
+ background-color: #F800E7;
+ border: 2px solid black;
+ transition: all 0.7s
+}
+#btnsourecepcionista:hover {
+  opacity: 0.6;
+  transition: all 0.7s
+}
+#btnsoumedico:hover {
+  opacity: 0.6;
+  transition: all 0.7s
+}
+#btnsoupaciente:hover {
+  opacity: 0.6;
+  transition: all 0.7s
+}
+
+.table {
+  align-items: center
+}
+th {
+  align-items: center;
+  text-align: center;
+}
+tr {
+  align-items: center;
+  text-align: center;
+}
+
