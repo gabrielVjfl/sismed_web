@@ -7,35 +7,28 @@ Sistema médico de integração entre Médicos, Pacientes e Recepcionistas
 A aplicação consiste em integrar médicos , pacientes e recepcionistas, podendo agendar, receber relatórios médicos, e entre outros.
 
 ## Layout web
-![Web 1](https://github.com/gabrielVjfl/desafio_frontend_linx_react/blob/main/public/src/tela1.png)
-## Layout mobile
-![Mobile 1](https://github.com/gabrielVjfl/desafio_frontend_linx_react/blob/main/public/assets/tela2.png) 
-
+![Web 1](https://github.com/gabrielVjfl/sismed_web/blob/main/frontend/src/assets/Tela1.png)
+![Web 2](https://github.com/gabrielVjfl/sismed_web/blob/main/frontend/src/assets/Tela2.png)
+![Web 3](https://github.com/gabrielVjfl/sismed_web/blob/main/frontend/src/assets/Tela3.png)
 
 <h4 align="center"> 
-	 Desafio Frontend Linx🚀 Concluído 
+	 Desafio Frontend Linx🚀 90% Concluído 
 </h4>
 
 # Tecnologias utilizadas
 ## Front end
 - HTML / CSS / JS 
 - React
-
-## Dependências
-- Axios
-
-
-## Implantação em produção
-- Front end web: GitHub Pages
+- Node
+- Docker
 
 # Como executar o projeto
-## Front end web
 ```bash
 # clonar repositório
-git clone https://github.com/gabrielVjfl/desafio_frontend_linx_react.git
+git clone https://github.com/gabrielVjfl/sismed_web.git
 
 # entrar na pasta do projeto front-end
-cd desafio_frontend_linx_react
+cd sismed_web
 npm i
 npm start
 
